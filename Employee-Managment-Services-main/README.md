@@ -47,8 +47,11 @@ Hire Date: 2021-12-16 00:00:00
 ```
 ## Special Thanks/Collaborators
 
+
+
+- [Steven Chan](https://github.com/newdevon)
 - [Caleb Prince](https://github.com/clprince)
-- [Kenny Yang](https://github.com/kennyyang2015)
+
 
 ## Contributing
 Forks and Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
